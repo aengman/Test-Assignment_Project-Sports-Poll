@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Test-Assignment---Project-Sports-Poll/static/css/main.5bd06d5a.chunk.css",
+    "main.js": "/Test-Assignment---Project-Sports-Poll/static/js/main.259b0641.chunk.js",
+    "main.js.map": "/Test-Assignment---Project-Sports-Poll/static/js/main.259b0641.chunk.js.map",
+    "runtime-main.js": "/Test-Assignment---Project-Sports-Poll/static/js/runtime-main.25ee23e5.js",
+    "runtime-main.js.map": "/Test-Assignment---Project-Sports-Poll/static/js/runtime-main.25ee23e5.js.map",
+    "static/js/2.8f25382e.chunk.js": "/Test-Assignment---Project-Sports-Poll/static/js/2.8f25382e.chunk.js",
+    "static/js/2.8f25382e.chunk.js.map": "/Test-Assignment---Project-Sports-Poll/static/js/2.8f25382e.chunk.js.map",
+    "index.html": "/Test-Assignment---Project-Sports-Poll/index.html",
+    "precache-manifest.b796a8afb4e98600ec22827988477fa4.js": "/Test-Assignment---Project-Sports-Poll/precache-manifest.b796a8afb4e98600ec22827988477fa4.js",
+    "service-worker.js": "/Test-Assignment---Project-Sports-Poll/service-worker.js",
+    "static/css/main.5bd06d5a.chunk.css.map": "/Test-Assignment---Project-Sports-Poll/static/css/main.5bd06d5a.chunk.css.map",
+    "static/media/footballSilhouette.png": "/Test-Assignment---Project-Sports-Poll/static/media/footballSilhouette.2d42b314.png",
+    "static/media/handballSilhouette.png": "/Test-Assignment---Project-Sports-Poll/static/media/handballSilhouette.1f8bb438.png",
+    "static/media/icehockeySilhouette.png": "/Test-Assignment---Project-Sports-Poll/static/media/icehockeySilhouette.0a26f2de.png",
+    "static/media/snookerSilhouette.jpg": "/Test-Assignment---Project-Sports-Poll/static/media/snookerSilhouette.a62bd1c6.jpg",
+    "static/media/main.css": "/Test-Assignment---Project-Sports-Poll/static/media/sportsArena.bdf86a52.jpg",
+    "static/media/tennisSilhouette.png": "/Test-Assignment---Project-Sports-Poll/static/media/tennisSilhouette.33e3ce73.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25ee23e5.js",
+    "static/js/2.8f25382e.chunk.js",
+    "static/css/main.5bd06d5a.chunk.css",
+    "static/js/main.259b0641.chunk.js"
+  ]
+}
