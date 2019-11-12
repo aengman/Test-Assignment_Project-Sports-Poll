@@ -1,0 +1,21 @@
+.headerMain {
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+.headerCont {
+  position: absolute;
+  display: inline-block;
+  color: white;
+}
+.headerItemCont {
+  min-width: 120px;
+  text-align: center;
+  padding: 15px;
+  display: inline-block;
+  transition: 0.5s;
+}
+.headerItemCont:hover {
+  background-color: rgba(50, 50, 50, 1);
+  cursor: pointer;
+
+}

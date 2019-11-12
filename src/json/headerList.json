@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Home",
+    "changeName": "home"
+  },
+  {
+    "name": "Finished Votes",
+    "changeName": "finished"
+  },
+  {
+    "name": "Ongoing Votes",
+    "changeName": "ongoing"
+  }
+]
