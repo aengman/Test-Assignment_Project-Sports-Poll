@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Test-Assignment_Project-Sports-Poll/static/css/main.cbff9fda.chunk.css",
-    "main.js": "/Test-Assignment_Project-Sports-Poll/static/js/main.a766ffe2.chunk.js",
-    "main.js.map": "/Test-Assignment_Project-Sports-Poll/static/js/main.a766ffe2.chunk.js.map",
+    "main.css": "/Test-Assignment_Project-Sports-Poll/static/css/main.d927f17a.chunk.css",
+    "main.js": "/Test-Assignment_Project-Sports-Poll/static/js/main.ee7e2c7e.chunk.js",
+    "main.js.map": "/Test-Assignment_Project-Sports-Poll/static/js/main.ee7e2c7e.chunk.js.map",
     "runtime-main.js": "/Test-Assignment_Project-Sports-Poll/static/js/runtime-main.3d6b0600.js",
     "runtime-main.js.map": "/Test-Assignment_Project-Sports-Poll/static/js/runtime-main.3d6b0600.js.map",
-    "static/js/2.8f25382e.chunk.js": "/Test-Assignment_Project-Sports-Poll/static/js/2.8f25382e.chunk.js",
-    "static/js/2.8f25382e.chunk.js.map": "/Test-Assignment_Project-Sports-Poll/static/js/2.8f25382e.chunk.js.map",
+    "static/js/2.4df0e6ba.chunk.js": "/Test-Assignment_Project-Sports-Poll/static/js/2.4df0e6ba.chunk.js",
+    "static/js/2.4df0e6ba.chunk.js.map": "/Test-Assignment_Project-Sports-Poll/static/js/2.4df0e6ba.chunk.js.map",
     "index.html": "/Test-Assignment_Project-Sports-Poll/index.html",
-    "precache-manifest.a5397a9d1ee1edd12808a469266c2dfe.js": "/Test-Assignment_Project-Sports-Poll/precache-manifest.a5397a9d1ee1edd12808a469266c2dfe.js",
+    "precache-manifest.c8c6dfe1026919219000060233a43ac4.js": "/Test-Assignment_Project-Sports-Poll/precache-manifest.c8c6dfe1026919219000060233a43ac4.js",
     "service-worker.js": "/Test-Assignment_Project-Sports-Poll/service-worker.js",
-    "static/css/main.cbff9fda.chunk.css.map": "/Test-Assignment_Project-Sports-Poll/static/css/main.cbff9fda.chunk.css.map",
+    "static/css/main.d927f17a.chunk.css.map": "/Test-Assignment_Project-Sports-Poll/static/css/main.d927f17a.chunk.css.map",
     "static/media/footballSilhouette.png": "/Test-Assignment_Project-Sports-Poll/static/media/footballSilhouette.2d42b314.png",
     "static/media/handballSilhouette.png": "/Test-Assignment_Project-Sports-Poll/static/media/handballSilhouette.1f8bb438.png",
     "static/media/icehockeySilhouette.png": "/Test-Assignment_Project-Sports-Poll/static/media/icehockeySilhouette.0a26f2de.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3d6b0600.js",
-    "static/js/2.8f25382e.chunk.js",
-    "static/css/main.cbff9fda.chunk.css",
-    "static/js/main.a766ffe2.chunk.js"
+    "static/js/2.4df0e6ba.chunk.js",
+    "static/css/main.d927f17a.chunk.css",
+    "static/js/main.ee7e2c7e.chunk.js"
   ]
 }

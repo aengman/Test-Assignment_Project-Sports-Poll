@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Test-Assignment_Project-Sports-Poll/precache-manifest.a5397a9d1ee1edd12808a469266c2dfe.js"
+  "/Test-Assignment_Project-Sports-Poll/precache-manifest.c8c6dfe1026919219000060233a43ac4.js"
 );
 
 self.addEventListener('message', (event) => {
