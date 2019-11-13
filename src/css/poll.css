@@ -2,6 +2,12 @@
   display: grid;
   place-items: center;
   height: 100%;
+  overflow-y: scroll;
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none; /* For Internet Explorer and Edge */
+}
+.pollHomeCont::-webkit-scrollbar {
+    width: 0px; /* For Chrome, Safari, and Opera */
 }
 .mainPollCont {
   background-color: rgba(0, 0, 0, 0.7);
@@ -11,8 +17,7 @@
   grid-template-rows: 33.33% 33.33% 33.33%;
   height: 550px;
   width: 750px;
-  max-height: 80%;
-  max-width: 80%;
+  margin-top: 50px;
 }
 .mainPollBtnCont {
   display: grid;
@@ -82,8 +87,5 @@
   }
   .mainPollCont div {
     font-size: 1.2em;
-  }
-  .finishedVoting {
-    margin-top: 50px;
   }
 }

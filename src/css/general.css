@@ -11,3 +11,8 @@ button {
 	cursor: pointer;
 	outline: inherit;
 }
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
