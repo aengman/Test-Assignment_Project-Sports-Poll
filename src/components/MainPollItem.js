@@ -104,7 +104,6 @@ class MainPollItem extends Component {
     this.props.newPollIndex(this.props.chosenList, this.props.ongoingVotes, this.findEventMatch, this.props.chosenCategory)
   }
   render() {
-    console.log("../media/" + this.props.eventItem.country.toLowerCase() + "Flag.png")
 
     return (
       <div className={"mainPollCont"}>
