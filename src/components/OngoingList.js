@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import OngoingListItem from './OngoingListItem.js'
 
+import '../css/ongoing.css'
 
 class OngoingList extends Component {
   constructor(props) {
@@ -32,7 +33,7 @@ class OngoingList extends Component {
   }
   render() {
     return (
-      <div>
+      <div className={"ongoingListCont"}>
         {this.props.ongoingVotes ? this.renderOngoingListItems(this.props.ongoingVotes, this.props.currentList) : <div> Empty! </div>}
       </div>
     );

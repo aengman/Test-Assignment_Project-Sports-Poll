@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+import '../css/ongoing.css'
 
 class OngoingListItem extends Component {
   constructor(props) {
@@ -17,7 +18,7 @@ class OngoingListItem extends Component {
           <div className={"ongoingListItemDraw"}> Draw </div>
           <div className={"ongoingListItemAway"}> {this.props.ongoingItem.awayName} </div>
         </div>
-        <div> include somewhere: {this.props.ongoingItem.group}, {this.props.ongoingItem.sport}, {this.props.ongoingItem.country}</div>
+        <div> {this.props.ongoingItem.group}, {this.props.ongoingItem.sport}, {this.props.ongoingItem.country}</div>
       </div>
     );
   }
