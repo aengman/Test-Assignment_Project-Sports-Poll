@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Test-Assignment_Project-Sports-Poll/static/css/main.8c1d4b1d.chunk.css",
+    "main.css": "/Test-Assignment_Project-Sports-Poll/static/css/main.cbff9fda.chunk.css",
     "main.js": "/Test-Assignment_Project-Sports-Poll/static/js/main.a766ffe2.chunk.js",
     "main.js.map": "/Test-Assignment_Project-Sports-Poll/static/js/main.a766ffe2.chunk.js.map",
     "runtime-main.js": "/Test-Assignment_Project-Sports-Poll/static/js/runtime-main.3d6b0600.js",
@@ -8,9 +8,9 @@
     "static/js/2.8f25382e.chunk.js": "/Test-Assignment_Project-Sports-Poll/static/js/2.8f25382e.chunk.js",
     "static/js/2.8f25382e.chunk.js.map": "/Test-Assignment_Project-Sports-Poll/static/js/2.8f25382e.chunk.js.map",
     "index.html": "/Test-Assignment_Project-Sports-Poll/index.html",
-    "precache-manifest.a4fc4d476957c7598a3bf84ac9f03ed6.js": "/Test-Assignment_Project-Sports-Poll/precache-manifest.a4fc4d476957c7598a3bf84ac9f03ed6.js",
+    "precache-manifest.a5397a9d1ee1edd12808a469266c2dfe.js": "/Test-Assignment_Project-Sports-Poll/precache-manifest.a5397a9d1ee1edd12808a469266c2dfe.js",
     "service-worker.js": "/Test-Assignment_Project-Sports-Poll/service-worker.js",
-    "static/css/main.8c1d4b1d.chunk.css.map": "/Test-Assignment_Project-Sports-Poll/static/css/main.8c1d4b1d.chunk.css.map",
+    "static/css/main.cbff9fda.chunk.css.map": "/Test-Assignment_Project-Sports-Poll/static/css/main.cbff9fda.chunk.css.map",
     "static/media/footballSilhouette.png": "/Test-Assignment_Project-Sports-Poll/static/media/footballSilhouette.2d42b314.png",
     "static/media/handballSilhouette.png": "/Test-Assignment_Project-Sports-Poll/static/media/handballSilhouette.1f8bb438.png",
     "static/media/icehockeySilhouette.png": "/Test-Assignment_Project-Sports-Poll/static/media/icehockeySilhouette.0a26f2de.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.3d6b0600.js",
     "static/js/2.8f25382e.chunk.js",
-    "static/css/main.8c1d4b1d.chunk.css",
+    "static/css/main.cbff9fda.chunk.css",
     "static/js/main.a766ffe2.chunk.js"
   ]
 }
